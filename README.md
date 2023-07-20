@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Rio!
+## Hi, I'm Rio!
 📚 I'm an undergraduate senior at The Ohio State University specializing in Software Development.  
 🔭 I’m currently working as a Computer Automation/Process Control Engineer Co-Op at Cleveland-Cliffs.  
 📊 I'm searching for full-time employment in software development for Autumn 2023.  
