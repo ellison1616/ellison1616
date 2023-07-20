@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 ## Hi, I'm Rio!
 📚 I'm an undergraduate senior at The Ohio State University specializing in Software Development.  
 
-🔭 I’m currently working as a Computer Automation/Process Control Engineer Co-Op at Cleveland-Cliffs.  
+🔭 I currently co-op as a Computer Automation/Process Control Engineer at Cleveland-Cliffs.  
 
-📊 I'm searching for full-time employment in software development for Autumn 2023.  
+📊 I'm searching for full-time employment in software development upon graduation in December 2023.  
 
 💻 I use GitHub for personal projects and software development.  
 
