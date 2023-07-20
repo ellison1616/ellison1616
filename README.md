@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ellison1616/ellison1616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Rio!
+📚 I'm an undergraduate senior at The Ohio State University specializing in Software Development.  
+🔭 I’m currently working as a Computer Automation/Process Control Engineer Co-Op at Cleveland-Cliffs.
+📊 I'm searching for full-time employment in software development for Autumn 2023.  
+💻 I use GitHub for personal projects and software development.  
+📫 My email is ellison.1616@osu.edu!
